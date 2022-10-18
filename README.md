@@ -1,6 +1,10 @@
 # food-ordering-system
 Microservice - Clean Architecture 
 
+### Builder Plugin used for core doamin
+
+https://plugins.jetbrains.com/plugin/7354-innerbuilder
+
 ### generate graph command
 https://graphviz.org/
 
