@@ -11,8 +11,13 @@
 
     <artifactId>order-dataaccess</artifactId>
 
-    <properties>
+    <properties></properties>
 
-    </properties>
+    <dependencies>
+        <dependency>
+            <groupId>com.sachith.fos</groupId>
+            <artifactId>order-application-service</artifactId>
+        </dependency>
+    </dependencies>
 
 </project>
